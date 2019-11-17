@@ -93,7 +93,7 @@ void ispis(float p[][brojcvorova])
 int main()
 {
     float Nn[brojcvorova];
-    float x[brojcvorova]={0,1,4,3,5};
+    float x[brojcvorova]={0,1,2,3,4};
     float y[brojcvorova]={0,1,8,27,64};
     float podeljene_razlike[brojcvorova];
     float tabela_polinoma[brojcvorova][brojcvorova];
